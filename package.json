@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ParkDalJae/230330-js-class-node-prac/issues"
   },
-  "homepage": "https://github.com/ParkDalJae/230330-js-class-node-prac#readme"
+  "homepage": "https://github.com/ParkDalJae/230330-js-class-node-prac#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
